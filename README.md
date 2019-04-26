@@ -1,18 +1,15 @@
 Passion project of mine!
 
----
 
 ## Goal:<br/>
 Use AppleScript.<br/>
 Fetch high-quailty public-accessiable images from National Geographic website, and set the image to my Macbook's wallpaper.
 
----
 
 ## Optional:<br/>
 Be able to modify image change time (per hour/day).<br/>
 Be able to save image into Photo folder (through shortcuts or drop down menu).
 
----
 
 ## Plan:
 - [ ] Learn AppleScript.
